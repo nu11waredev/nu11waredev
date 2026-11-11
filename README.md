@@ -1,6 +1,6 @@
 **hey 👋**
 
-nu11ware is a small workshop for open source. Mostly Swift, mostly privacy stuff.
+nu11ware is a small workshop for open source.
 
 What goes on here:
 
