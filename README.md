@@ -10,4 +10,4 @@ What goes on here:
 
 🛠 building a few open-source things of our own
 
-We use Fable 5.2 across every commit and you can learn more about the project at [nu11ware.dev](https://nu11ware.dev).
+Join us!
