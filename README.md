@@ -1,6 +1,6 @@
-**hey 👋**
+**howdy 👋**
 
-nu11ware is a small workshop for open source.
+nu11ware is a small workshop for open source Swift development.
 
 What goes on here:
 
